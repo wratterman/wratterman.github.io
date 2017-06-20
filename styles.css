@@ -11,3 +11,41 @@ body h2 {
 body {
   background-image: url(http://traverslasik.com/wp-content/uploads/2015/06/texture-blue-fonchik-simple-dark-colors-glow-background.jpg);
 }
+
+div {
+	border-radius: 5px;
+	border: 2px solid #6495ED;
+	background-color: #BCD2EE;
+	height: 60px;
+	width: 120px;
+	margin: auto;
+	text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: #788a7e;
+  font-size: 18px;
+}
+
+span {
+  font-weight: bold;
+  font-size: 24px;
+  font-family: "Myriad Pro", Myriad, Helvetica, Arial, sans-serif;
+  color: #000000
+}
+
+span2 {
+  background-color: #0077B5;
+  font-size: 24px;
+  font-weight: bold;
+  font-family: "Myriad Pro", Myriad, Helvetica, Arial, sans-serif;
+  color: #FFFFFF
+}
+
+span3 {
+  font-weight: bold;
+  font-size: 24px;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  color: black;
+}
