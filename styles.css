@@ -1,0 +1,13 @@
+body h1 {
+  font-size: 48px;
+  color: #e3eee8;
+}
+
+body h2 {
+  font-size: 36px;
+  color: #e3eee8;
+}
+
+body {
+  background-image: url(http://traverslasik.com/wp-content/uploads/2015/06/texture-blue-fonchik-simple-dark-colors-glow-background.jpg);
+}
