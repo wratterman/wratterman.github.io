@@ -22,25 +22,10 @@ div {
 	text-align: center;
 }
 
-div2 {
-	border-radius: 5px;
-	border: 2px solid #6495ED;
-	background-color: #BCD2EE;
-	height: 100px;
-	width: 500px;
-	text-align: center;
-}
-
 a {
   text-decoration: none;
   color: #788a7e;
   font-size: 18px;
-}
-
-a2 {
-  text-decoration: none;
-  color: #788a7e;
-  font-size: 22px;
 }
 
 span {
@@ -63,4 +48,11 @@ span3 {
   font-size: 24px;
   font-family: "Comic Sans MS", cursive, sans-serif;
   color: black;
+}
+
+span4 {
+  font-weight: bold;
+  font-size: 24px;
+  font-family: Impact, Charcoal, sans-serif;
+  color: green;
 }
